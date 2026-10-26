@@ -1,0 +1,7 @@
+brian2==2.10.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+scipy==1.18.1
+numpy==2.5.4
+pypdf==6.21.2
+reportlab==5.1.0

@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+tmp/
+results/
+output/
+.mplconfig/
+.env
+.env.*
+*.pem
+*.key
